@@ -1,0 +1,44 @@
+
+.home-container{
+    display:flex;
+    align-items:center;
+    flex-direction:column;
+    justify-content:center;
+    background-color:  #183b56;
+    height:100vh;
+}
+.nav-content{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    padding:0px 20px;
+    width:100%;
+padding-top:30px;
+}
+.nav-header{
+background-color:#183b56;
+
+}
+
+.logout-desktop-btn{
+    height:30px;
+    width:100px;
+    border:1px solid #fff;
+    outline:none;
+    cursor:pointer;
+    background-color: transparent;
+    color:#fff;
+    font-family:"Roboto";
+    font-size:14px;
+}
+
+.website-logo{
+    width:120px
+}
+.head{
+    font-size:36px;
+    font-weight:bold;
+    color:#fff;
+    font-family:"Roboto";
+}
+
